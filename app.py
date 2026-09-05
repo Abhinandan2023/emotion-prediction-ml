@@ -74,9 +74,7 @@ def preprocess_text(txt):
 # Stopwords
 # ---------------------------------------------------
 
-from nltk.corpus import stopwords
-
-stop_words = set(stopwords.words("english"))
+stop_words = joblib.load("stop_words.pkl")
 
 
 # ---------------------------------------------------
