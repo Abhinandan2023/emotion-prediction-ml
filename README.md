@@ -19,13 +19,13 @@ Workflow
 Text Input → Preprocessing → TF-IDF → Logistic Regression → Emotion
 
 Project Structure
-├── app.py
-├── emotion_model.pkl
-├── tfidf_vectorizer.pkl
-├── emotion_mapping.pkl
-├── stop_words.pkl
-├── requirements.txt
-└── README.md
+--> app.py
+--> emotion_model.pkl
+--> tfidf_vectorizer.pkl
+--> emotion_mapping.pkl
+--> stop_words.pkl
+--> requirements.txt
+--> README.md
 
 Run Locally
 
