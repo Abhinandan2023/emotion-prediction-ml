@@ -29,7 +29,7 @@ Project Structure
 
 Run Locally
 
-git clone https://github.com/YOUR_USERNAME/emotion-prediction-ml.git
+git clone https://github.com/Abhinandan2023/emotion-prediction-ml.git
 cd emotion-prediction-ml
 pip install -r requirements.txt
 python -m streamlit run app.py
@@ -42,4 +42,4 @@ Author
 
 Abhinandan Maity
 
-[GitHub](https://github.com/YOUR_USERNAME)
+[GitHub](https://github.com/Abhinandan2023)
